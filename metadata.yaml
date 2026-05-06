@@ -1,7 +1,7 @@
 name: astrbot_plugin_image2_generater
 display_name: Image2 Generater
-desc: Message and LLM image generation plugin for AstrBot.
-short_desc: Generate images from chat commands and LLM tool calls.
+desc: 兼容Open AI格式的图片生成插件.
+short_desc: 兼容Open AI格式的图片生成插件.
 version: v1.1.0
 author: FEXzzz
 repo: https://github.com/FEXzzz/astrbot_plugin_image2_generater.git
